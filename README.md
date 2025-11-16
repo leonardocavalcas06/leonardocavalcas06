@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/leocavalcantii__?igsh=MWFlaG45dHJtbnk5Zw==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/ leonardo-vieira-232b9a373" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-vieira-232b9a373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/833869993614770199" target="_blank">

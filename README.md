@@ -1,4 +1,10 @@
-<h2 align="left">Olá Mundo! 👋🏻<br>Me chamo Leonardo Vieira.<br>Sou estudante de Análise e Desenvolvimento de Sistemas.<br>Sou apaixonado por tecnologia, e gosto de transformar ideias em soluções funcionais, explorando  o desenvolvimento front-end até a criação de sistemas mais completos.<br><br>Atualmente,  eu venho estudando essas tecnologias:<br>Python, HTML, CSS e JavaScript<br><br>E também, estou começando a focar na linguagem Java.<br><br>Estou sempre em busca de aprimorar minhas habilidades, aprender novas ferramentas e construir projetos que me desafiem e me ajudem a evoluir como desenvolvedor.</h2>
+<h2 align="left"> Olá, Mundo!
+Sou Leonardo Vieira, estudante de Análise e Desenvolvimento de Sistemas na UniFafire.
+Estou iniciando minha jornada no Front-End, aprendendo a lógica de HTML, CSS e começando a praticar JavaScript.
+
+Apesar do foco no Front-End, também estou fortalecendo meus conhecimentos em Back-End, principalmente em Python, e começando agora a aprender Java. Já tive algumas experiências iniciais com Python e estou retomando para evoluir ainda mais.
+
+Busco minha primeira oportunidade em tecnologia, motivado por aprendizado contínuo, curiosidade e vontade de crescer como desenvolvedor..</h2>
 
 ###
 
@@ -7,8 +13,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -19,7 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
 ###
@@ -34,7 +37,7 @@
   <a href="https://discord.com/users/833869993614770199" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="leonardo.vieiracavalcas@gmail.com" target="_blank">
+  <a href="mailto:leonardo.vieiracavalcas@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
